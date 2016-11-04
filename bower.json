@@ -1,0 +1,22 @@
+{
+  "name": "angular-polymer",
+  "description": "Prueba de angular2 con polymer",
+  "main": "",
+  "authors": [
+    "Rafael Montaño <boraita@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-elements": "^1.0.7",
+    "vaadin-combo-box": "^1.1.5"
+  }
+}
