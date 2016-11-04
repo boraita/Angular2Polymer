@@ -11,9 +11,7 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "src/assets/bower_components"
   ],
   "dependencies": {
     "paper-elements": "^1.0.7",
